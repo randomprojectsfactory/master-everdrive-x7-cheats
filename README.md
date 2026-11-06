@@ -2,7 +2,7 @@
 
 Game Genie cheat menu. **No flashing required.**
 
-[Download v11 — ready to copy](https://github.com/randomprojectsfactory/master-everdrive-x7-cheats/releases/download/v11/Master-EverDrive-X7-Cheats-v11-ready.zip)
+[Download v11](https://github.com/randomprojectsfactory/master-everdrive-x7-cheats/releases/download/v11/Master-EverDrive-X7-Cheats-v11-ready.zip)
 
 Tested on a Master System Model 1 (USA) and a Japanese Game Gear via Master System Player.
 
